@@ -17,7 +17,7 @@ public class UpperBound {
     }
     public static void main(String[] args) {
         int[] nums = {3,5,8,15,19};
-        int x=3;
+        int x=9;
         System.out.println(upperBound(nums, x));
     }
 }
